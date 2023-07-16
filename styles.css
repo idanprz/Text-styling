@@ -1,0 +1,24 @@
+div {
+    border-top: 5px dashed red;
+    border-right: 5px dashed green;
+    border-left: 5px dashed purple;
+    border-bottom: 5px dashed blue;
+    border-radius: 10px;
+    background-color: coral;
+    color: yellow;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-clip: padding-box;
+}
+
+.reqtitle {
+    color: green;
+    background-color: cadetblue;
+    margin: 0%;
+}
+
+.reqtitle:hover {
+    color: black;
+    background-color: yellow;
+}
